@@ -1,0 +1,12 @@
+import java.io.*;
+public class IfExample {
+    public static void main(String[] args) {
+        int x=10;
+        int y=20;
+                if(x+y<50)
+                {
+                    System.out.println("x+y is less than 50");
+                }
+               
+    }
+}
